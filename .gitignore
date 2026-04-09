@@ -30,7 +30,7 @@ MANIFEST
 # PyInstaller
 *.manifest
 *.spec
-dist/
+dist/foto_sortierer
 build/
 
 # Environments
